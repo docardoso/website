@@ -38,4 +38,4 @@ weight = 1
 
 # Biography
 
-I am an assistant professor at the Department of Computer Engineering of CEFET-RJ Campus Petrópolis. My research interests include clustering, open set recognition, data streams mining and weightless neural networks. I also coordinate a programming contests training project, preparing students to competitions as the ACM International Collegiate Programming Contest.
+I am an assistant professor at the Department of Computer Engineering of CEFET-RJ Petrópolis. My research interests include clustering, open set recognition, data streams mining and weightless neural networks. I also coordinate a programming contests training project, preparing students to competitions as the ACM International Collegiate Programming Contest.
