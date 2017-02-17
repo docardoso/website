@@ -12,7 +12,7 @@ weight = 1
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
+    "Computational Intelligence",
     "Machine Learning",
     "Data Science",
     "Programming Contests",
@@ -20,9 +20,9 @@ weight = 1
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "DSc Canditate in Artificial Intelligence"
+  course = "DSc in Artificial Intelligence"
   institution = "PESC-COPPE-UFRJ"
-  year = "2012 - Now"
+  year = "In progress"
 
 [[education.courses]]
   course = "MSc in Artificial Intelligence"
@@ -36,6 +36,8 @@ weight = 1
  
 +++
 
-# Biography
-
-I am an assistant professor at the Department of Computer Engineering of CEFET-RJ Petrópolis. My research interests include clustering, open set recognition, data streams mining and weightless neural networks. I also coordinate a programming contests training project, preparing students to competitions as the ACM International Collegiate Programming Contest.
+<p style='text-align: justify;'>
+   I am an assistant professor at the Department of Computer Engineering of CEFET-RJ Petrópolis.
+   My research interests include clustering, open set recognition, data streams mining and weightless neural networks.
+   I also coordinate a programming contests training project, preparing students to competitions as the ACM International Collegiate Programming Contest.
+</p>
