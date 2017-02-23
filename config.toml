@@ -23,12 +23,12 @@ defaultContentLanguageInSubdir = false
    organization = "CEFET-RJ Petrópolis"
    organization_url = "http://www.cefet-rj.br/"
    avatar = "foto_quadrada.jpg"
-   email = "douglas.cardoso _at_ cefet-rj.br"
+   email = "douglas.cardoso@cefet-rj.br"
 
 [[params.social]]
  icon = "envelope"
  icon_pack = "fa"
- link = "douglas.cardoso _at_ cefet-rj.br"
+ link = "mailto:douglas.cardoso@cefet-rj.br"
 
 [[params.social]]
  icon = "google-scholar"
@@ -49,6 +49,11 @@ defaultContentLanguageInSubdir = false
  icon = "github"
  icon_pack = "fa"
  link = "https://github.com/docardoso"
+
+[[params.social]]
+ icon = "address-card"
+ icon_pack = "fa"
+ link = "http://buscacv.cnpq.br/buscacv/#/espelho?nro_id_cnpq_cp_s=9438219886705967"
 
 [languages]
 [languages.pt]

@@ -3,7 +3,7 @@
 date = "2017-02-17"
 
 # Project title.
-title = "Engenharia de Software"
+title = "Lógica"
 
 # Project summary to display on homepage.
 summary = ""
@@ -13,7 +13,7 @@ image_preview = ""
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["cefet-rj", "cursos", "eng-sw", "graduacao"]
+tags = ["cefet-rj", "cursos", "logica", "graduacao"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -28,16 +28,6 @@ caption = ""
 
 +++
 
-## Avisos
-
-* Entrega do relatório sobre PDSs: 15/03/2017
-
 ## Slides das Aulas
 
-1. [Introdução](01-intro.pdf)
-2. [Processos de Desenvolvimento de Software](02-pds.pdf)
-
-## Links úteis
-
-* http://www.slideshare.net/SE9/presentations/
-* https://www.computer.org/web/swebok
+1. [Lógica Proposicional e Dedução Natural (parte 1)](01-lp_dn1.pdf)
