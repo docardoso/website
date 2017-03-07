@@ -31,3 +31,21 @@ caption = ""
 ## Slides das Aulas
 
 1. [Lógica Proposicional e Dedução Natural (parte 1)](01-lp_dn1.pdf)
+2. [Dedução Natural (parte 2)](02-dn2.pdf)
+
+## Monitoria
+
+Monitor: Victor Pedrosa  
+Atendimento: 6as-feiras, das 14:00 às 16:00, na biblioteca  
+Contato: <mailto:victor.pedrosa.99@gmail.com>
+
+## Links úteis
+
+http://www.cos.ufrj.br/~mario/logica/logica.html  
+http://web.ist.utl.pt/acardoso/docs/2014-lpp-guiaPraticas.pdf  
+http://logic.stanford.edu/intrologic/lessons/lessons.html  
+https://logik.phl.univie.ac.at/~chris/gateway/formular-uk-zentral.html  
+http://www.logicinaction.org/  
+http://logic.ua.edu/cgi-bin/quizmaster  
+http://www.poweroflogic.com/cgi/menu.cgi  
+http://www.cs.rice.edu/~vardi/comp409/409.lectures.html  

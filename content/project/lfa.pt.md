@@ -31,3 +31,4 @@ caption = ""
 ## Aulas e slides
 
 1. [Autômatos Finitos Determinísticos](01-afd.pdf)
+1. [Autômatos Finitos Não-Determinísticos](02-afnd.pdf)
