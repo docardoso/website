@@ -20,9 +20,9 @@ weight = 1
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "DSc in Artificial Intelligence"
+  course = "PhD in Artificial Intelligence"
   institution = "PESC-COPPE-UFRJ"
-  year = "In progress"
+  year = "2017"
 
 [[education.courses]]
   course = "MSc in Artificial Intelligence"

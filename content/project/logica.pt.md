@@ -28,10 +28,18 @@ caption = ""
 
 +++
 
+## Avisos
+
+* Lista 1 de exercícios divulgada em 18/03/2017
+
 ## Slides das Aulas
 
 1. [Lógica Proposicional e Dedução Natural (parte 1)](01-lp_dn1.pdf)
 2. [Dedução Natural (parte 2)](02-dn2.pdf)
+
+## Listas de Exercícios
+
+1. [Lista 1](lista1.pdf)
 
 ## Monitoria
 
@@ -49,3 +57,4 @@ http://www.logicinaction.org/
 http://logic.ua.edu/cgi-bin/quizmaster  
 http://www.poweroflogic.com/cgi/menu.cgi  
 http://www.cs.rice.edu/~vardi/comp409/409.lectures.html  
+http://teachinglogic.liglab.fr/DN/index.php

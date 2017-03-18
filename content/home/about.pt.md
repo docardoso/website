@@ -22,7 +22,7 @@ weight = 1
 [[education.courses]]
   course = "Doutorado em Inteligência Artificial"
   institution = "PESC-COPPE-UFRJ"
-  year = "Em andamento"
+  year = "2017"
 
 [[education.courses]]
   course = "Mestrado em Inteligência Artificial"

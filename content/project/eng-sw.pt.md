@@ -28,14 +28,11 @@ caption = ""
 
 +++
 
-## Avisos
-
-* Entrega do relatório sobre PDSs: 15/03/2017
-
 ## Slides das Aulas
 
 1. [Introdução](01-intro.pdf)
 2. [Processos de Desenvolvimento de Software](02-pds.pdf)
+3. [Engenharia de Requisitos](03-requisitos.pdf)
 
 ## Links úteis
 
