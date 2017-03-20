@@ -51,6 +51,7 @@ Contato: <mailto:victor.pedrosa.99@gmail.com>
 
 http://www.cos.ufrj.br/~mario/logica/logica.html  
 http://web.ist.utl.pt/acardoso/docs/2014-lpp-guiaPraticas.pdf  
+http://homepages.dcc.ufmg.br/~nvieira/cursos/lac/
 http://logic.stanford.edu/intrologic/lessons/lessons.html  
 https://logik.phl.univie.ac.at/~chris/gateway/formular-uk-zentral.html  
 http://www.logicinaction.org/  
