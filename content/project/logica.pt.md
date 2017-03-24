@@ -40,6 +40,7 @@ caption = ""
 ## Listas de Exercícios
 
 1. [Lista 1](lista1.pdf)
+1. [Lista 2](lista2.pdf)
 
 ## Monitoria
 
