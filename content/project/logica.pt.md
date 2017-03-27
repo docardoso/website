@@ -30,12 +30,13 @@ caption = ""
 
 ## Avisos
 
-* Lista 1 de exercícios divulgada em 18/03/2017
+* Prova 1 em 03/04/2017
 
 ## Slides das Aulas
 
 1. [Lógica Proposicional e Dedução Natural (parte 1)](01-lp_dn1.pdf)
 2. [Dedução Natural (parte 2)](02-dn2.pdf)
+3. [Regras Derivadas e Equivalências Populares](03-equivalencias.pdf)
 
 ## Listas de Exercícios
 
@@ -45,7 +46,7 @@ caption = ""
 ## Monitoria
 
 Monitor: Victor Pedrosa  
-Atendimento: 6as-feiras, das 14:00 às 16:00, na biblioteca  
+Atendimento: 6as-feiras, das 14:00 às 16:00, na biblioteca (2o andar)
 Contato: <mailto:victor.pedrosa.99@gmail.com>
 
 ## Links úteis
