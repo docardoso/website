@@ -30,18 +30,19 @@ caption = ""
 
 ## Avisos
 
-* Prova 1 em 03/04/2017
+* Prova 1 em 04/04/2017
 
 ## Slides das Aulas
 
 1. [Lógica Proposicional e Dedução Natural (parte 1)](01-lp_dn1.pdf)
-2. [Dedução Natural (parte 2)](02-dn2.pdf)
-3. [Regras Derivadas e Equivalências Populares](03-equivalencias.pdf)
+1. [Dedução Natural (parte 2)](02-dn2.pdf)
+1. [Regras Derivadas e Equivalências Populares](03-equivalencias.pdf)
 
 ## Listas de Exercícios
 
 1. [Lista 1](lista1.pdf)
 1. [Lista 2](lista2.pdf)
+1. [Lista 3](lista3.pdf)
 
 ## Monitoria
 
