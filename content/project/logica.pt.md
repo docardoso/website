@@ -37,6 +37,7 @@ caption = ""
 1. [Lógica Proposicional e Dedução Natural (parte 1)](01-lp_dn1.pdf)
 1. [Dedução Natural (parte 2)](02-dn2.pdf)
 1. [Regras Derivadas e Equivalências Populares](03-equivalencias.pdf)
+1. [Resolução Proposicional](04-resolucao.pdf)
 
 ## Listas de Exercícios
 
@@ -55,7 +56,7 @@ Contato: <mailto:victor.pedrosa.99@gmail.com>
 http://www.cos.ufrj.br/~mario/logica/logica.html  
 http://web.ist.utl.pt/acardoso/docs/2014-lpp-guiaPraticas.pdf  
 http://homepages.dcc.ufmg.br/~nvieira/cursos/lac/
-http://logic.stanford.edu/intrologic/lessons/lessons.html  
+http://logic.stanford.edu/intrologic/notes/notes.html
 https://logik.phl.univie.ac.at/~chris/gateway/formular-uk-zentral.html  
 http://www.logicinaction.org/  
 http://logic.ua.edu/cgi-bin/quizmaster  
