@@ -19,7 +19,7 @@ tags = ["cefet-rj", "cursos", "lfa", "graduacao"]
 external_link = ""
 
 # Does the project detail page use math formatting?
-math = false
+math = true
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
@@ -28,10 +28,20 @@ caption = ""
 
 +++
 
-## Aulas e slides
+## Avisos
+
+* Lista 1 de exercícios liberada em 04/04/2017
+
+## Slides das aulas
 
 1. [Autômatos Finitos Determinísticos](01-afd.pdf)
-1. [Autômatos Finitos Não-Determinísticos](02-afnd.pdf)
+1. [Autômatos Finitos Não-Determinísticos](02-afn.pdf)
+1. [AFN$\lambda$s & Propriedades de Fechamento](03-afl_fechamento.pdf)
+1. [Lema do Bombeamento](04-bombeamento.pdf)
+
+## Listas de exercícios
+
+1. [Lista 1](lfa_lista1.pdf)
 
 ## Links úteis
 
