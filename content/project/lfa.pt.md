@@ -30,7 +30,7 @@ caption = ""
 
 ## Avisos
 
-* Lista 1 de exercícios liberada em 04/04/2017
+* 29/05/2017, 13:00: Lista 2 de exercícios divulgada
 
 ## Slides das aulas
 
@@ -38,10 +38,14 @@ caption = ""
 1. [Autômatos Finitos Não-Determinísticos](02-afn.pdf)
 1. [AFN$\lambda$s & Propriedades de Fechamento](03-afl_fechamento.pdf)
 1. [Lema do Bombeamento](04-bombeamento.pdf)
+1. [Expressões Regulares](05-er.pdf)
+1. [Gramáticas Regulares](06-gr.pdf)
+1. [Autômatos com Pilha](07-ap.pdf)
 
 ## Listas de exercícios
 
 1. [Lista 1](lfa_lista1.pdf)
+1. [Lista 2](lfa_lista2.pdf)
 
 ## Links úteis
 

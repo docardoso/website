@@ -107,18 +107,6 @@ defaultContentLanguageInSubdir = false
   weight = 6
 
 [[languages.pt.menu.main]]
-  name = "In English"
-  pre = "<i class='fa fa-language'></i>"
-  url = "/en"
-  weight = 10
-
-[[languages.en.menu.main]]
-  name = "Em Português"
-  pre = "<i class='fa fa-language'></i>"
-  url = "../pt"
-  weight = 10
-
-[[languages.pt.menu.main]]
   name = "Cursos"
   url = "#cursos"
   weight = 4

@@ -31,8 +31,10 @@ caption = ""
 ## Slides das Aulas
 
 1. [Introdução](01-intro.pdf)
-2. [Processos de Desenvolvimento de Software](02-pds.pdf)
-3. [Engenharia de Requisitos](03-requisitos.pdf)
+1. [Processos de Desenvolvimento de Software](02-pds.pdf)
+1. [Engenharia de Requisitos](03-requisitos.pdf)
+1. [Modelagem de Sistemas](04-modelagem.pdf)
+1. [Arquitetura de Software](05-arquitetura.pdf)
 
 ## Links úteis
 
