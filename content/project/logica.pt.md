@@ -30,8 +30,8 @@ caption = ""
 
 ## Avisos
 
-* Lista 4 (corrigida) divulgada 26/05/2017, às 15:10
-* Prova 2 em 06/06/2017
+* Lista 6 divulgada em 01/07/2017, 00:55
+* Prova 2 em 03/07/2017
 
 ## Slides das Aulas
 
@@ -46,6 +46,8 @@ caption = ""
 1. [Lista 2](lista2.pdf)
 1. [Lista 3](lista3.pdf)
 1. [Lista 4](lista4.pdf)
+1. [Lista 5](lista5.pdf)
+1. [Lista 6](lista6.pdf)
 
 ## Monitoria
 
