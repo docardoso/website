@@ -19,7 +19,7 @@ tags = ["cefet-rj", "cursos", "logica", "graduacao"]
 external_link = ""
 
 # Does the project detail page use math formatting?
-math = false
+math = true
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
@@ -30,8 +30,9 @@ caption = ""
 
 ## Avisos
 
-* Lista 6 divulgada em 01/07/2017, 00:55
-* Prova 2 em 03/07/2017
+* Lista 1 divulgada em 30/08/2017, 00:10
+
+<!--
 
 ## Slides das Aulas
 
@@ -40,19 +41,26 @@ caption = ""
 1. [Regras Derivadas e Equivalências Populares](03-equivalencias.pdf)
 1. [Resolução Proposicional](04-resolucao.pdf)
 
+-->
+
 ## Listas de Exercícios
 
 1. [Lista 1](lista1.pdf)
+
+<!--
+
 1. [Lista 2](lista2.pdf)
 1. [Lista 3](lista3.pdf)
 1. [Lista 4](lista4.pdf)
 1. [Lista 5](lista5.pdf)
 1. [Lista 6](lista6.pdf)
 
+-->
+
 ## Monitoria
 
 Monitor: Victor Pedrosa  
-Atendimento: 6as-feiras, das 14:00 às 16:00, na biblioteca (2o andar)
+Atendimento: 4as-feiras, das 14:00 às 18:00, na biblioteca (2$^o$ andar)
 Contato: <mailto:victor.pedrosa.99@gmail.com>
 
 ## Links úteis
