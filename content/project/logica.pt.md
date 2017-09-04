@@ -30,7 +30,7 @@ caption = ""
 
 ## Avisos
 
-* 04/09/2017, 15:00: A P1 ocorrerá em 14/09, de 7:00 às 8:30
+* 04/09/2017, 15:00: A P1 ocorrerá em 14/09/2017, de 7:00 às 8:30
 * 04/09/2017, 11:50: lista 2 divulgada
 * 30/08/2017, 00:10: lista 1 divulgada
 
@@ -62,18 +62,18 @@ caption = ""
 
 ## Monitoria
 
-Monitor: Victor Pedrosa (<mailto:victor.pedrosa.99@gmail.com>)
-Atendimento: 4as-feiras, das 14:00 às 18:00, na biblioteca (2o andar)
+Monitor: Victor Pedrosa (<mailto:victor.pedrosa.99@gmail.com>)  
+Atendimento: 4as-feiras, das 14:00 às 18:00, na biblioteca (2$^o$ andar)
 
 ## Links úteis
 
 http://www.cos.ufrj.br/~mario/logica/logica.html  
 http://web.ist.utl.pt/acardoso/docs/2014-lpp-guiaPraticas.pdf  
-http://homepages.dcc.ufmg.br/~nvieira/cursos/lac/
-http://logic.stanford.edu/intrologic/notes/notes.html
+http://homepages.dcc.ufmg.br/~nvieira/cursos/lac/  
+http://logic.stanford.edu/intrologic/notes/notes.html  
 https://logik.phl.univie.ac.at/~chris/gateway/formular-uk-zentral.html  
 http://www.logicinaction.org/  
 http://logic.ua.edu/cgi-bin/quizmaster  
 http://www.poweroflogic.com/cgi/menu.cgi  
 http://www.cs.rice.edu/~vardi/comp409/409.lectures.html  
-http://teachinglogic.liglab.fr/DN/index.php
+http://teachinglogic.liglab.fr/DN/index.php  
