@@ -30,8 +30,9 @@ caption = ""
 
 ## Avisos
 
-* Lista 1 divulgada em 30/08/2017, 00:10
-* Lista 2 divulgada em 04/09/2017, 11:50
+* 04/09/2017, 15:00: A P1 ocorrerá em 14/09, de 7:00 às 8:30
+* 04/09/2017, 11:50: lista 2 divulgada
+* 30/08/2017, 00:10: lista 1 divulgada
 
 <!--
 
@@ -61,9 +62,8 @@ caption = ""
 
 ## Monitoria
 
-Monitor: Victor Pedrosa  
-Atendimento: 4as-feiras, das 14:00 às 18:00, na biblioteca (2$^o$ andar)
-Contato: <mailto:victor.pedrosa.99@gmail.com>
+Monitor: Victor Pedrosa (<mailto:victor.pedrosa.99@gmail.com>)
+Atendimento: 4as-feiras, das 14:00 às 18:00, na biblioteca (2o andar)
 
 ## Links úteis
 

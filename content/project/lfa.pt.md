@@ -30,7 +30,7 @@ caption = ""
 
 ## Avisos
 
-* 23/08/2017, 16:40: Página atualizada para 2017-2
+* 23/08/2017, 16:40: página atualizada para 2017-2
 
 ## Slides das aulas
 
@@ -38,10 +38,10 @@ caption = ""
 1. [Autômatos Finitos Não-Determinísticos](02-afn.pdf)
 1. [AFN$\lambda$s & Propriedades de Fechamento](03-afl_fechamento.pdf)
 1. [Lema do Bombeamento](04-bombeamento.pdf)
-
-<!--
 1. [Expressões Regulares](05-er.pdf)
 1. [Gramáticas Regulares](06-gr.pdf)
+
+<!--
 1. [Autômatos com Pilha](07-ap.pdf)
 -->
 
