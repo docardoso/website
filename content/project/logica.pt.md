@@ -31,6 +31,7 @@ caption = ""
 ## Avisos
 
 * Lista 1 divulgada em 30/08/2017, 00:10
+* Lista 2 divulgada em 04/09/2017, 11:50
 
 <!--
 
@@ -46,6 +47,7 @@ caption = ""
 ## Listas de Exercícios
 
 1. [Lista 1](lista1.pdf)
+1. [Lista 2](lista2.pdf)
 
 <!--
 
