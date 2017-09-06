@@ -30,6 +30,7 @@ caption = ""
 
 ## Avisos
 
+* 06/09/2017, 05:20: descrição do trabalho 1 adicionada
 * 23/08/2017, 16:40: página atualizada para 2017-2
 
 ## Slides das aulas
@@ -44,6 +45,10 @@ caption = ""
 <!--
 1. [Autômatos com Pilha](07-ap.pdf)
 -->
+
+## Trabalhos
+
+1. [Trabalho 1](lfa_trab1.pdf)
 
 ## Listas de exercícios
 
