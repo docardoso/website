@@ -15,13 +15,17 @@ googleAnalytics = ""
 defaultContentLanguage = "pt"
 defaultContentLanguageInSubdir = false
 
+[outputs]
+  home = [ "HTML", "CSS" ]
+
 [blackfriday]
-  #hrefTargetBlank = true
+  hrefTargetBlank = true
 
 [params]
+  color_theme = "ocean"
+  font = "default"
    name = "Douglas O. Cardoso"
-   organization = "CEFET-RJ Petrópolis"
-   organization_url = "http://www.cefet-rj.br/"
+   organizations = [{name="CEFET-RJ Petrópolis", url="http://www.cefet-rj.br/"}]
    avatar = "foto_quadrada.jpg"
    email = "douglas.cardoso@cefet-rj.br"
 
@@ -58,13 +62,13 @@ defaultContentLanguageInSubdir = false
 [languages]
 [languages.pt]
    role = "Professor"
-   address = "Laboratório MARC, CEFET-RJ Petrópolis, Rio de Janeiro, Brasil"
-   office_hours = "Terças, das 14:00 às 17:00; ou conforme agendamento"
+   address = "Sala dos Professores de Engenharia, CEFET-RJ Petrópolis, Rio de Janeiro, Brasil"
+   office_hours = "De 4a-feira à 6a-feira, entre 9:30 e 10:30; ou conforme agendamento"
 
 [languages.en]
    role = "Assistant Professor"
-   address = "MARC Lab, CEFET-RJ Petrópolis, Rio de Janeiro, Brazil"
-   office_hours = "Tuesdays, 14:00 to 17:00; or by appointment"
+   address = "Engineering Professors Office, CEFET-RJ Petrópolis, Rio de Janeiro, Brazil"
+   office_hours = "From Wednestay to Friday, between 9:30 and 10:30; or by appointment"
    phone = ""
    skype = ""
    telegram = ""

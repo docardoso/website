@@ -30,15 +30,15 @@ caption = ""
 
 ## Avisos
 
-* 04/09/2017, 15:00: A P1 ocorrerá em 14/09/2017, de 7:00 às 8:30
-* 04/09/2017, 11:50: lista 2 divulgada
-* 30/08/2017, 00:10: lista 1 divulgada
+* 17/10/2017, 21:00: A P2 ocorrerá em 19/10/2017, a partir de 7:00
+* 17/10/2017, 21:00: lista 4 divulgada
 
-<!--
 
 ## Slides das Aulas
 
 1. [Lógica Proposicional e Dedução Natural (parte 1)](01-lp_dn1.pdf)
+
+<!--
 1. [Dedução Natural (parte 2)](02-dn2.pdf)
 1. [Regras Derivadas e Equivalências Populares](03-equivalencias.pdf)
 1. [Resolução Proposicional](04-resolucao.pdf)
@@ -49,11 +49,12 @@ caption = ""
 
 1. [Lista 1](lista1.pdf)
 1. [Lista 2](lista2.pdf)
+1. [Lista 3](lista3.pdf)
+1. [Lista 4](lista4.pdf)
 
 <!--
 
 1. [Lista 2](lista2.pdf)
-1. [Lista 3](lista3.pdf)
 1. [Lista 4](lista4.pdf)
 1. [Lista 5](lista5.pdf)
 1. [Lista 6](lista6.pdf)
