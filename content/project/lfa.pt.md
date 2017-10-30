@@ -41,10 +41,8 @@ caption = ""
 1. [Lema do Bombeamento](04-bombeamento.pdf)
 1. [Expressões Regulares](05-er.pdf)
 1. [Gramáticas Regulares](06-gr.pdf)
-
-<!--
 1. [Autômatos com Pilha](07-ap.pdf)
--->
+1. [Gramáticas Livres de Contexto](08-glc.pdf)
 
 ## Trabalhos
 
@@ -53,6 +51,7 @@ caption = ""
 ## Listas de exercícios
 
 1. [Lista 1](lfa_lista1.pdf)
+1. [Lista 2](lfa_lista3.pdf)
 
 <!--
 1. [Lista 2](lfa_lista2.pdf)
@@ -62,7 +61,7 @@ caption = ""
 
 ## Links úteis
 
-http://homes.dcc.ufba.br/~leandrojsa/livroFTC.pdf
-http://homepages.dcc.ufmg.br/~nvieira/cursos/ftc/
-<http://wiki.icmc.usp.br/index.php/SCC-5832(JoaoLuis)>
-http://www.marcusramos.com.br/univasf/
+http://homes.dcc.ufba.br/~leandrojsa/livroFTC.pdf  
+http://homepages.dcc.ufmg.br/~nvieira/cursos/ftc/  
+<http://wiki.icmc.usp.br/index.php/SCC-5832(JoaoLuis)>  
+http://www.marcusramos.com.br/univasf/  
