@@ -30,34 +30,12 @@ caption = ""
 
 ## Avisos
 
-* 06/09/2017, 05:20: descrição do trabalho 1 adicionada
-* 23/08/2017, 16:40: página atualizada para 2017-2
+* 08/03/2017, 02:30: página atualizada para 2018-1
 
 ## Slides das aulas
 
 1. [Autômatos Finitos Determinísticos](01-afd.pdf)
 1. [Autômatos Finitos Não-Determinísticos](02-afn.pdf)
-1. [AFN$\lambda$s & Propriedades de Fechamento](03-afl_fechamento.pdf)
-1. [Lema do Bombeamento](04-bombeamento.pdf)
-1. [Expressões Regulares](05-er.pdf)
-1. [Gramáticas Regulares](06-gr.pdf)
-1. [Autômatos com Pilha](07-ap.pdf)
-1. [Gramáticas Livres de Contexto](08-glc.pdf)
-
-## Trabalhos
-
-1. [Trabalho 1](lfa_trab1.pdf)
-
-## Listas de exercícios
-
-1. [Lista 1](lfa_lista1.pdf)
-1. [Lista 2](lfa_lista3.pdf)
-
-<!--
-1. [Lista 2](lfa_lista2.pdf)
-1. [Lista 3](lfa_lista3.pdf)
-1. [Lista 4](lfa_lista4.pdf)
--->
 
 ## Links úteis
 
