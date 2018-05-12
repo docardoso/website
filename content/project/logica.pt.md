@@ -3,7 +3,7 @@
 date = "2017-02-17"
 
 # Project title.
-title = "Lógica"
+title = "Lógica para Computação"
 
 # Project summary to display on homepage.
 summary = ""
@@ -30,17 +30,19 @@ caption = ""
 
 ## Avisos
 
-* 08/12/2017, 4:40: lista 7 divulgada
-
+* 11/05/2018, 22:00: slides sobre Resolução Proposicional adicionados.
 
 ## Slides das Aulas
 
-1. [Lógica Proposicional e Dedução Natural (parte 1)](01-lp_dn1.pdf)
-1. [Dedução Natural (parte 2)](02-dn2.pdf)
+1. [Lógica Proposicional e Dedução Natural](01-lp_dn1.pdf)
+1. [Regras Derivadas e Equivalências Populares](03-equivalencias.pdf)
 1. [Resolução Proposicional](04-resolucao.pdf)
-1. [Lógica de Primeira Ordem](06-lpo.pdf)
 
 <!--
+
+1. [Dedução Natural (parte 2)](02-dn2.pdf)
+1. [Lógica de Primeira Ordem](06-lpo.pdf)
+
 1. [Dedução Natural (parte 2)](02-dn2.pdf)
 1. [Regras Derivadas e Equivalências Populares](03-equivalencias.pdf)
 
@@ -49,6 +51,13 @@ caption = ""
 ## Listas de Exercícios
 
 1. [Lista 1](lista1.pdf)
+1. [Lista 3](lista3.pdf)
+1. [Lista 4](lista4.pdf)
+1. [Lista 5](lista5.pdf)
+1. [Lista 6](lista6.pdf)
+
+<!--
+
 1. [Lista 2](lista2.pdf)
 1. [Lista 3](lista3.pdf)
 1. [Lista 4](lista4.pdf)
@@ -56,7 +65,6 @@ caption = ""
 1. [Lista 6](lista6.pdf)
 1. [Lista 7](lista7.pdf)
 
-<!--
 
 1. [Lista 2](lista2.pdf)
 1. [Lista 4](lista4.pdf)
@@ -68,7 +76,8 @@ caption = ""
 ## Monitoria
 
 Monitor: Victor Pedrosa (<mailto:victor.pedrosa.99@gmail.com>)  
-Atendimento: 4as-feiras, das 14:00 às 18:00, na biblioteca (2$^o$ andar)
+Atendimento presencial: 5as-feiras, das 14:00 às 18:00, na biblioteca (2$^o$ andar)
+Atendimento online: via facebook ou whatsapp, a qualquer hora
 
 ## Links úteis
 

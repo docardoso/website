@@ -30,12 +30,10 @@ caption = ""
 
 ## Avisos
 
-* 04/09/2017, 14:10: O prazo das 1as listas de exercícios é 29/09/2017
-* 04/09/2017, 14:10: A P1 ocorrerá em 29/09/2017
-* 04/09/2017, 14:10: página criada
+* 22/03/2018, 07:15: página atualizada para 2018-1
 
 
-## Aulas
+## Conteúdo Programático
 
 1. Entrada e saída básicos
 1. Variáveis
@@ -43,10 +41,9 @@ caption = ""
 1. Loops (for, while e do while)
 1. Vetores e matrizes
 1. Funções
-1. Bibliotecas-padrão (stdio, math, string)
+1. Bibliotecas básicas (stdio, math, string etc)
 1. Struct e endereços
-
-Os códigos-fonte gerados durante as aulas, exemplificando o conteúdo abordado, encontram-se disponíveis através deste [link](https://www.dropbox.com/sh/zujq8abccf3qevl/AAD8CT8-qBnxXd7QFPic782ea). Tal link é de responsabilidade dos próprios alunos.
+1. Recursos diversos da linguagem
 
 ## Listas de Exercícios
 
@@ -54,10 +51,9 @@ O site https://www.urionlinejudge.com.br/ foi utilizado para divulgação e aval
 
 ## Monitoria
 
-Monitor: Yngwi Guimaraes (<mailto:yngwigvs@gmail.com>)  
-Atendimento:  
-- 5as-feiras; das 9:30 às 10:50, no laboratório do hall;  
-- 5as-feiras; das 15:30 às 17:30 na biblioteca (2o andar).
+Monitor: Igor Lordeiro (<mailto:igor.queirozlordeiro@gmail.com>)  
+Atendimento presencial: 4as-feiras, das 14:00 às 18:00, no Laboratório de Arquitetura  
+Atendimento online: via facebook ou whatsapp, a qualquer hora   
 
 ## Links úteis
 
